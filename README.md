@@ -5,5 +5,5 @@ The Simon game is the exciting electronic game of lights and sounds in which pla
 ## Strat Screen
 ![strat](https://user-images.githubusercontent.com/66566962/134779613-6c236079-de62-4e44-b3bf-219df579f173.png)
 
-## End Screen
+## Game Over
 ![rest](https://user-images.githubusercontent.com/66566962/134779643-3ff18832-71e8-4ea8-ae98-471492042ed1.png)
